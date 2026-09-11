@@ -11,6 +11,5 @@ corss-functional teams.
 => extrinal data analyst & AI
  engineering
 
-─────────────────────────────────────
 "Don't just learn how it works.
  Build it. Break it. Fix it."
